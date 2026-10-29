@@ -1,0 +1,16 @@
+# Build directories and artifacts
+build/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+# Compiled C++ executables
+engine
+
+# Heavy PyTorch binary weights
+*.bin
+
+# Python caches
+__pycache__/
+*.pyc
